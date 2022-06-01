@@ -19,7 +19,7 @@ const Home = () => {
 			</div>
 			<footer className="Footer">
 				<p>
-					<strong>Developed by Divyanshu Parwal</strong>
+					<strong>Developed by Antriksh Tyagi</strong>
 				</p>
 			</footer>
 		</Fragment>
